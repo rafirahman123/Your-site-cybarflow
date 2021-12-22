@@ -1,0 +1,16 @@
+.nav-second{
+    background-image: linear-gradient( #FFA500,yellow);
+}
+.nav-first{
+    background-image: linear-gradient( #ffa60057 , white); 
+}
+.nav-text{
+    color: #FFA500;
+}
+.nav-img{
+    width: 200px;
+    height: 160px;
+    margin-top: 30px;
+    margin-right: 10px;
+    border: 2px solid white;
+}
